@@ -1,0 +1,7 @@
+{
+  "name": "myAppR1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
