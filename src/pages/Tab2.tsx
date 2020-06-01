@@ -17,7 +17,7 @@ const Tab2: React.FC = () => {
             <IonTitle size="large">Tab 2 11</IonTitle>
           </IonToolbar>
         </IonHeader>
-        <ExploreContainer name="Tab 2 page 11111221112" />
+        <ExploreContainer name="Tab 2 page 11111221113332" />
       </IonContent>
     </IonPage>
   );
